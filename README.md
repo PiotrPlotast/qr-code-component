@@ -1,3 +1,4 @@
+## live at: https://piotrplotast.github.io/qr-code-component/
 
 ## Authors
 
