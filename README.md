@@ -1,2 +1,15 @@
+
+## Authors
+
+- [@Pietrell](https://github.com/PiotrPlotast/)
+
+
 # qr code component
- Simple FrontendMentor challange. <br /> Live at: https://piotrplotast.github.io/qr-code-component/
+
+Simplest Frontend Mentor project
+
+
+## built with
+
+- html 
+- css
